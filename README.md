@@ -5,3 +5,5 @@ Hi there! I'm looking to start a new career as a Full Stack Web Developer. Here 
 - NodeJS
 - MongoDB
 - Vanilla JavaScript
+- CSS/HTML
+- SASS
