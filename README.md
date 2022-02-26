@@ -7,3 +7,6 @@ Hi there! I'm looking to start a new career as a Full Stack Web Developer. Here 
 - Vanilla JavaScript
 - CSS/HTML
 - SASS
+
+
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=fetchcat&show_icons=true)
