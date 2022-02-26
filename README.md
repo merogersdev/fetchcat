@@ -4,8 +4,7 @@ I'm looking to start a new career as a Full Stack Web Developer. Here are some o
 | Languages                   |
 | --------------------------- |
 | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fetchcat&theme=onedark) |
-| Stats                       |
-| --------------------------- |
+| GitHub Stats                       |
 | ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=fetchcat&show_icons=true&theme=onedark) |
 
 
