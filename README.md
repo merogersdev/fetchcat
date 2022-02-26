@@ -13,7 +13,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+---
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fetchcat&card_width=495)
+
+---
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=fetchcat&show_icons=true)
