@@ -1,6 +1,6 @@
 # Hi there! #
 
-I'm looking to start a new career as a Full Stack Web Developer. Here are some of the technologies I can use. Feel free to browse my code repositories here for examples of my work.
+Experienced web developer adept in all areas of web development, including Front-End, Back-End, Databases, DevOps and Cloud. Knowledgeable in user interface design, and debugging processes. Proficient in an assortment of both well-established and promising technologies. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,6 +28,3 @@ I'm looking to start a new career as a Full Stack Web Developer. Here are some o
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fetchcat&card_width=495)
 
----
-
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=fetchcat&show_icons=true)
