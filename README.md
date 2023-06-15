@@ -1,6 +1,11 @@
 # Profile #
 
-Experienced web developer adept in all areas of web development, including Front-End, Back-End, Databases, DevOps and Cloud. Knowledgeable in user interface design, and debugging processes. Proficient in an assortment of both well-established and promising technologies. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
+The combination of creative design and technical problem solving is what led me to web development. 
+I originally started coding websites while I was in high-school and after enrolled a diploma program in development and e-commerce. Once complete, I started my own freelance development and IT business offering primarily Website design/development and IT Support services.
+
+From there, I worked the last several years as a cook at various establishments to make ends meet. However, I've recently completed the Web Development bootcamp at Brainstation and have been working hard to improve my skills since. Now that I'm back up to speed in the ever-changing world of development I am again offering my services as a freelance web developer.
+
+Feel free to send me a message if you want to take your website or web application to the next level :)
 
 ## Technologies I'm familiar with ##
 
