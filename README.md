@@ -1,4 +1,4 @@
-# Profile #
+# Profile
 
 The combination of creative design and technical problem solving is what led me to web development. 
 I originally started coding websites while I was in high-school and after enrolled a diploma program in development and e-commerce. Once complete, I started my own freelance development and IT business offering primarily Website design/development and IT Support services.
@@ -7,7 +7,7 @@ From there, I worked the last several years as a cook at various establishments 
 
 Feel free to send me a message if you want to take your website or web application to the next level :)
 
-## Technologies I'm familiar with ##
+## Technologies I'm familiar with
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
